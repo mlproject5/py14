@@ -8,7 +8,6 @@ st.set_page_config(page_title='PrayerTime', page_icon='pt.png', layout="centered
 
 hide_streamlit_style = """
     <style>
-    #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     </style>
     """
